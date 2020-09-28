@@ -1,0 +1,2 @@
+# Article.Datastream.Python.ComputingRiskFreeRatesAndExcessReturnsFromZeroCouponBonds
+This article explains what Net Present Values, Face Values, Maturities, Coupons, and risk-free rates are, how to compute them, and how they are used to calculate excess returns using only Zero-Coupon Bonds; other types of bonds are discussed for completeness, but they will only be investigated as such in further articles to come. It is aimed at academics from undergraduate level up.
